@@ -1,3 +1,4 @@
 My name is Steven Mafuya.
 This is my Git practical assessment.
-My favorite module is DevOps 361.
+
+My favorite module is DevOps 361 and Networking 361.
